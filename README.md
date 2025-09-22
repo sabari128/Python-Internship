@@ -1,7 +1,25 @@
 # Python-Internship
 
-This 45-day remote internship will provide me with the opportunity to:
- 🔹 Work on real-time projects using Python, Django/Flask, API integrations, and database management
- 🔹 Gain hands-on experience in automation scripting and deployment processes
- 🔹 Enhance my technical skills while learning and growing in a professional environment
+Simple CLI Calculator
 
+This is a basic command-line calculator made with Python. It supports addition, subtraction, multiplication, and division.
+
+Features:
+
+Add, subtract, multiply, and divide numbers
+Handles invalid input and division by zero
+Easy to use in the terminal
+
+How to Run--
+
+Make sure you have Python 3 installed.
+Run the program:
+python calculator.py
+
+Example:
+===== Simple CLI Calculator ===== 
+Available operations: + , - , * , / Type 'exit' to quit the program.
+Enter operation (+, -, *, /) or 'exit': + 
+Enter first number: 5
+Enter second number: 3 
+Result: 8.0
