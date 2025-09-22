@@ -1,0 +1,17 @@
+# 🧮 Calculator CLI App
+
+A simple **Command-Line Calculator App** built using Python.  
+This project was created as part of the **Python Developer Internship Task 1**.
+
+---
+
+## 🚀 Features
+- Addition (+)
+- Subtraction (-)
+- Multiplication (*)
+- Division (/)
+- Error handling for invalid inputs & division by zero
+- User-friendly CLI menu
+- Loops until user exits
+
+---
