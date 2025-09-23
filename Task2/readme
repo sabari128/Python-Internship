@@ -1,0 +1,17 @@
+**Task 2: Create a To-Do List Application (Console-based)**
+Objective: Implement a simple to-do list manager.
+Tools: Python, VS Code / Terminal.
+Deliverable: `todo.py`
+Key Concepts: File Handling, Lists, String Manipulation.
+
+---
+
+**Features**
+- Add new tasks  
+- View all tasks  
+- Remove tasks by number  
+- Persistent storage in `tasks.txt`  
+- User-friendly CLI interface  
+
+---
+
