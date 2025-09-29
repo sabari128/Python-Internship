@@ -1,0 +1,9 @@
+Product,Region,Sales
+
+Laptop,North,1200
+Phone,South,800
+Tablet,East,600
+
+Laptop,West,900
+Phone,North,700
+Tablet,South,400

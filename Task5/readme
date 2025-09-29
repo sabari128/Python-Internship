@@ -1,0 +1,19 @@
+**Task 5: Data Analysis on CSV Files**.
+
+---
+
+## 📌 Task Details
+- **Objective**: Analyze sales data using Pandas.  
+- **Tools**: Python, Pandas, Jupyter Notebook / Google Colab  
+- **Deliverables**: Notebook + charts  
+- **Key Concepts**: Pandas, DataFrame, Visualization  
+
+---
+
+## 🚀 Features
+- Load CSV file using Pandas  
+- Explore dataset (head, shape, columns)  
+- Group data with `groupby()`  
+- Summarize sales by product and region  
+- Visualize data using bar chart and pie chart
+
