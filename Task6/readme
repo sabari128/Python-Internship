@@ -1,0 +1,19 @@
+ **Task 6: Build a Portfolio Website with Flask**.
+
+---
+
+## 📌 Task Details
+- **Objective**: Create a personal portfolio site with Flask.  
+- **Tools**: Python, Flask, HTML, CSS  
+- **Deliverables**: Flask project folder  
+- **Key Concepts**: Flask Templates, Jinja2, Web Forms  
+
+---
+
+## 🚀 Features
+- Flask-based portfolio website  
+- `index.html` with personal information  
+- Contact form (POST method)  
+- Basic styling with CSS  
+- Routing with Flask  
+- Use of Jinja2 templates  
