@@ -1,0 +1,18 @@
+## 📌 Task 8: Build a Chatbot using if-else
+
+### 🎯 Objective  
+Create a simple **rule-based chatbot** using Python.
+
+---
+
+### 📝 Hints / Mini Guide Implemented  
+1. ✅ Used input/output loop to take user input.  
+2. ✅ Used if-elif-else to respond to queries.  
+3. ✅ Allowed exit on typing "bye".  
+
+---
+
+### 🚀 Outcome  
+- A working **rule-based chatbot**.  
+- Demonstrates **basic NLP structure**.  
+- Can be extended into a **real AI chatbot** in future.  
